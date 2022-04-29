@@ -12,6 +12,7 @@ the issues that were identified.
 
 ## Audit Steps
 - [x] Manual Audit 
+    
     I have checked contract code line by line. so I found some functional & security issues
 - [x] Contract Auto checking
   - Unit Test
