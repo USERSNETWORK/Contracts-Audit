@@ -17,5 +17,6 @@ the issues that were identified.
   - Use Testing scripts
 ## Conclusion
 ```
-I have used all the latest static tools and manual observations to cover maximum possible test cases to scan everything.
+I have used all the latest static tools and manual observations to 
+cover maximum possible test cases to scan everything.
 ```
