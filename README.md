@@ -10,8 +10,8 @@ contract, and as a guide to improve the security posture of the smart contract b
 the issues that were identified.
 
 ## Audit Steps
-[x] Manual Audit 
-[x] Contract Auto checking
+-[x] Manual Audit 
+-[x] Contract Auto checking
   - Unit Test
   - Compile Checking
   - Use Testing scripts
